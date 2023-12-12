@@ -29,8 +29,9 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 ## Books
 
+* [Deep Learning - Foundations and Concepts by Christopher M. Bishop and Hugh Bishop](https://link.springer.com/book/10.1007/978-3-031-45468-4)
 * [Data Science for Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323)
-* [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+* [Pattern Recognition and Machine Learning - Christopher M. Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 * [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html) ([GitHub](https://github.com/jakevdp/PythonDataScienceHandbook))
 * [Applied Text Analysis with Python](https://www.amazon.com/Applied-Text-Analysis-Python-Language-Aware/dp/1491963042) ([GitHub](https://github.com/foxbook/atap))
 * [The Visual Display of Quantitative Information - Edward R. Tufte](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130)
