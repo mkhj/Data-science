@@ -71,7 +71,10 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 #### MLOps
 
-* [ModelDB - an open-source system to version machine learning models](https://github.com/VertaAI/modeldb)
+* [ModelDB - An open-source system to version machine learning models](https://github.com/VertaAI/modeldb)
+* [MLFlow - Machine learning workflows with end-to-end tracking, model management, and deployment](https://mlflow.org)
+  
+* [DVC - Open-source version control system. Git-like experience to organize your data, models, and experiments](https://dvc.org)
 
 
 ## Hyperparameter optimisation 
