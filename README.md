@@ -27,6 +27,11 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 * [DataFramed - DataCamp’s official podcast](https://www.datacamp.com/community/podcast)
 
+## Courses
+
+#### MLOps
+* [CMU - Machine Learning in Production (17-445/17-645/17-745) / AI Engineering (11-695)](https://mlip-cmu.github.io/s2025/)
+
 ## Books
 
 * [Data Science for Business](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323)
