@@ -67,6 +67,13 @@ If the path for you anaconda distrubition is not showing when _'echo $PATH'_ try
 
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 
+## Tools
+
+#### MLOps
+
+* [https://github.com/VertaAI/modeldb](ModelDB - an open-source system to version machine learning models)
+
+
 ## Hyperparameter optimisation 
 
 * [SigOpt](https://sigopt.com/)
